@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<HistoricalOverview xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Thermogram>
+    <Date>2018-06-01T00:00:00</Date>
+    <RightBreast>
+      <Diagnose>HighRiskOrRatingTH</Diagnose>
+      <TH>0</TH>
+    </RightBreast>
+    <LeftBreast>
+      <Diagnose>HighRiskOrRatingTH</Diagnose>
+      <TH>0</TH>
+    </LeftBreast>
+  </Thermogram>
+</HistoricalOverview>
