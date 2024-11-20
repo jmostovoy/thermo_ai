@@ -5,3 +5,5 @@ A few possibly useful repositories for utilizing radiometric images are as follo
   <li>[Thermal processing panel](https://github.com/rodan/thpp)</li>
   <li>[FLIR/DJI IR Camera Data Parser, Python Version](https://github.com/SanNianYiSi/thermal_parser)</li>
 </ol>
+
+In "pdf_score_extraction", you will find previously written code that may be helpful for extracting all relevant scores & score-related metrics from existing patient reports.
