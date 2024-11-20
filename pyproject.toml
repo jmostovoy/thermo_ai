@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "thermo_scores"
+version = "0.1.2"
+description = "Scripts for thermography project"
+authors = ["Andrew Ross <andrew.ross.mail@gmail.com>"]
+
+[tool.poetry.scripts]
+thermo_scores = 'thermo_scores.cli:cli'
+
+[tool.poetry.dependencies]
+python = "^3.7"
+pdfminer = "^20191125"
+
+[tool.poetry.dev-dependencies]
+black = "^19.10b0"
+pylint = "^2.4.4"
+flake8 = "^3.7.9"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
