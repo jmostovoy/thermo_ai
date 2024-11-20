@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<HistoricalOverview xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Mammogram>
+    <Date>2016-01-01T00:00:00</Date>
+    <RightBreast>Normal</RightBreast>
+    <LeftBreast>Normal</LeftBreast>
+  </Mammogram>
+  <BreastUltrasound>
+    <Date>2020-01-01T00:00:00</Date>
+    <RightBreast>Normal</RightBreast>
+    <LeftBreast>Normal</LeftBreast>
+  </BreastUltrasound>
+  <BreastExamByDoctor>
+    <Date>2021-01-01T00:00:00</Date>
+    <RightBreast>None</RightBreast>
+    <LeftBreast>None</LeftBreast>
+  </BreastExamByDoctor>
+  <BreastSurgeries>
+    <Implants>true</Implants>
+    <Reduction>false</Reduction>
+    <Lift>false</Lift>
+    <DateofIRL>2017-01-01T00:00:00</DateofIRL>
+  </BreastSurgeries>
+</HistoricalOverview>

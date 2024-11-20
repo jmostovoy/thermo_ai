@@ -1,0 +1,58 @@
+<?xml version='1.0'?>
+<ExamSession>
+<ExamSessionDate>3/25/2022 2:52:58 PM</ExamSessionDate>
+<Patient>
+<FirstName>example4</FirstName>
+<LastName>example4a</LastName>
+<DateOfBirth>7/25/1979</DateOfBirth>
+<Notes></Notes>
+</Patient>
+<PatientChecklist>
+<Bruises>NO</Bruises>
+<Rashes>NO</Rashes>
+<Bulges>NO</Bulges>
+<Indentations>NO</Indentations>
+<Discharge>NO</Discharge>
+<Marking>NO</Marking>
+<Thickening>NO</Thickening>
+<Discoloration>NO</Discoloration>
+<Lumps>NO</Lumps>
+<NippleInv>NO</NippleInv>
+<Trauma>NO</Trauma>
+<Concerns>IMPLANTS IN 2017. FEELS LIKE A BLOCKED DUCT SINCE 2 YRS. </Concerns>
+<AnythElse></AnythElse>
+<Complaints>ROUTINE THERMAL BREAST ASSESSMENT </Complaints>
+<HistoricalOverview></HistoricalOverview>
+</PatientChecklist>
+<ScannedForms>
+</ScannedForms>
+<Exams>
+<Exam>
+<ExamTemplate>BreastExam</ExamTemplate>
+<ExamCaption>Breast Scan</ExamCaption>
+<ExamDirectory>BreastExam</ExamDirectory>
+<ImageGroups>
+<ImageGroup>
+<name>BASELINE</name>
+<row>1</row>
+<Image><Sequence>1</Sequence><Caption>ANTERIOR</Caption><ImageFile>0101_baseline_anterior.jpg</ImageFile><Notes></Notes></Image>
+<Image><Sequence>2</Sequence><Caption>OBLIQUE LEFT</Caption><ImageFile>0102_baseline_oblique left.jpg</ImageFile><Notes></Notes></Image>
+<Image><Sequence>3</Sequence><Caption>OBLIQUE RIGHT</Caption><ImageFile>0103_baseline_oblique right.jpg</ImageFile><Notes></Notes></Image>
+<Image><Sequence>4</Sequence><Caption>LATERAL LEFT</Caption><ImageFile>0104_baseline_lateral left.jpg</ImageFile><Notes></Notes></Image>
+<Image><Sequence>5</Sequence><Caption>LATERAL RIGHT</Caption><ImageFile>0105_baseline_lateral right.jpg</ImageFile><Notes></Notes></Image>
+<Image><Sequence>6</Sequence><Caption>INFERIOR VIEW</Caption><ImageFile>0106_baseline_inferior view.jpg</ImageFile><Notes></Notes></Image>
+</ImageGroup>
+<ImageGroup>
+<name>FUNCTIONAL TEST</name>
+<row>2</row>
+<Image><Sequence>1</Sequence><Caption>ANTERIOR</Caption><ImageFile>0201_functional test_anterior.jpg</ImageFile><Notes></Notes></Image>
+<Image><Sequence>2</Sequence><Caption>OBLIQUE LEFT</Caption><ImageFile>0202_functional test_oblique left.jpg</ImageFile><Notes></Notes></Image>
+<Image><Sequence>3</Sequence><Caption>OBLIQUE RIGHT</Caption><ImageFile>0203_functional test_oblique right.jpg</ImageFile><Notes></Notes></Image>
+<Image><Sequence>4</Sequence><Caption>LATERAL LEFT</Caption><ImageFile>0204_functional test_lateral left.jpg</ImageFile><Notes></Notes></Image>
+<Image><Sequence>5</Sequence><Caption>LATERAL RIGHT</Caption><ImageFile>0205_functional test_lateral right.jpg</ImageFile><Notes></Notes></Image>
+<Image><Sequence>6</Sequence><Caption>INFERIOR VIEW</Caption><ImageFile>0206_functional test_inferior view.jpg</ImageFile><Notes></Notes></Image>
+</ImageGroup>
+</ImageGroups>
+</Exam>
+</Exams>
+</ExamSession>
