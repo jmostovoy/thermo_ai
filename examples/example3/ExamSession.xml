@@ -1,0 +1,57 @@
+<?xml version='1.0'?>
+<ExamSession>
+<ExamSessionDate>11/11/2020 11:34:24 AM</ExamSessionDate>
+<Patient>
+<FirstName>example3</FirstName>
+<LastName>example3a</LastName>
+<DateOfBirth>10/9/1962</DateOfBirth>
+<Notes></Notes>
+</Patient>
+<PatientChecklist>
+<Bruises></Bruises>
+<Rashes></Rashes>
+<Bulges></Bulges>
+<Indentations></Indentations>
+<Discharge></Discharge>
+<Marking>small freckles</Marking>
+<Thickening>lower left breast</Thickening>
+<Discoloration></Discoloration>
+<Lumps></Lumps>
+<NippleInv></NippleInv>
+<Trauma>left side son kneed breast,
+ no real injuries</Trauma>
+<Concerns>plugged in for a comparative very healthy</Concerns>
+<AnythElse>no</AnythElse>
+<Complaints>Thermal Breast Assessment</Complaints>
+<HistoricalOverview></HistoricalOverview>
+</PatientChecklist>
+<ScannedForms>
+<Image>patient_history_1.jpg</Image>
+<Image>patient_history_2.jpg</Image>
+<Image>patient_history_3.jpg</Image>
+<Image>patient_history_4.jpg</Image>
+</ScannedForms>
+<Exams>
+<Exam>
+<ExamTemplate>BreastExam</ExamTemplate>
+<ExamCaption>Breast Scan</ExamCaption>
+<ExamDirectory>BreastExam</ExamDirectory>
+<ImageGroups>
+<ImageGroup>
+<name>BASELINE</name>
+<row>1</row>
+<Image><Sequence>1</Sequence><Caption>ANTERIOR</Caption><ImageFile>0101_baseline_anterior.jpg</ImageFile><Notes></Notes></Image>
+<Image><Sequence>2</Sequence><Caption>OBLIQUE LEFT</Caption><ImageFile>0102_baseline_oblique left.jpg</ImageFile><Notes></Notes></Image>
+<Image><Sequence>3</Sequence><Caption>OBLIQUE RIGHT</Caption><ImageFile>0103_baseline_oblique right.jpg</ImageFile><Notes></Notes></Image>
+</ImageGroup>
+<ImageGroup>
+<name>FUNCTIONAL TEST</name>
+<row>2</row>
+<Image><Sequence>1</Sequence><Caption>ANTERIOR</Caption><ImageFile>0201_functional test_anterior.jpg</ImageFile><Notes></Notes></Image>
+<Image><Sequence>2</Sequence><Caption>OBLIQUE LEFT</Caption><ImageFile>0202_functional test_oblique left.jpg</ImageFile><Notes></Notes></Image>
+<Image><Sequence>3</Sequence><Caption>OBLIQUE RIGHT</Caption><ImageFile>0203_functional test_oblique right.jpg</ImageFile><Notes></Notes></Image>
+</ImageGroup>
+</ImageGroups>
+</Exam>
+</Exams>
+</ExamSession>
